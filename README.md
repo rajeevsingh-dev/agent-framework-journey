@@ -14,6 +14,13 @@ This repository showcases the power and simplicity of the **Agent Framework** fo
 - 🛡️ **Enterprise-Grade Error Handling** and resilience
 - 📊 **Built-in Monitoring** and performance analytics
 
+---
+
+📝 **For more details on Agent Framework, refer to my Blog Post:**  
+🔗 [Microsoft Agent Framework: The Open Source Engine for Agentic AI Apps](https://singhrajeev.com/2025/10/05/microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/)
+
+---
+
 ## Prerequisites
 
 Before running the Agent Framework demos, ensure you have the following:
