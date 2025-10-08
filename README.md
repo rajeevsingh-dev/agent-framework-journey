@@ -225,29 +225,6 @@ The Agent Framework roadmap includes revolutionary features that will transform 
 
 ---
 
-## 🏃‍♂️ Quick Start
-
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd AgentFramework
-   ```
-
-2. **Follow the [Setup Guide](./documents/Setup-guide.md)**
-
-3. **Run the demo**
-   ```bash
-   cd python/1.ai-foundry-agents
-   python multi-agent-demo2.py
-   ```
-
-4. **Test intelligent routing**
-   - Try: "How many calories in an apple?" 
-   - Try: "Suggest a healthy dinner"
-   - Try: "both" for comprehensive analysis
-
----
-
 ## 📚 Additional Resources
 
 - **[Agent Framework Documentation](https://docs.microsoft.com/azure/ai-foundry/)**
