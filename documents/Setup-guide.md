@@ -1,10 +1,13 @@
+# Setup Guide
 
-# Set up Guide
+This comprehensive guide walks you through the essential configuration steps needed to get started with the Agent Framework Journey repository.
 
-This page covers below 2 major set up required for this Repo.
 
-1. Azure AI Foundry Project Set up Guide
-2. Azure AI Foundry Project Set up steps.
+This guide covers two critical setup components:
+
+1. **Azure AI Foundry Project Configuration** - Understanding the setup approach and requirements
+2. **Step-by-Step Implementation** - Detailed instructions for creating and configuring your AI Foundry project
+
 
 
 # 1.  Azure AI Foundry set  Guide: Choosing Between Direct OpenAI and AI Foundry Project Approaches

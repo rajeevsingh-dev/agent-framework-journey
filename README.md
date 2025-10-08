@@ -66,7 +66,7 @@ python -m pip install --upgrade pip
 # Install required packages
 pip install python-dotenv
 pip install azure-identity
-pip install azure-ai-agent-framework
+pip install agent-framework
 pip install asyncio
 
 # Alternative: Install from requirements file (if available)
